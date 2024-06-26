@@ -1,0 +1,71 @@
+Analysed Insights:-
+
+
+
+Kerala, Andhra Pradesh, Tamil Nadu, uttar Pradesh these are the states which has higest production that is 98bn, 17bn, 12bn, 3bn respectively.
+
+If we see the total production then we observed that coconut has higest production rate that is 130bn and then second is sugercane which is 6bn.
+
+
+As per the seasons-
+
+
+ In autumn season:-
+
+  The crop which has highest production, that is rice which is 52M.
+
+  In this season the states like Bihar, Odisha, West Bengal, Assam,and Kerala, these are the top 5 states which has highest crop production.
+
+  And sum of production in Autumn seasons is 64.41M.
+
+
+ In kharif season:-
+
+  The crops which has highest production are total foodgrain, urad,sweet patato, tomato,and tapioca that is 33M, 15M, 3M, 1M, 1M respectively.
+
+  In this season the states like Uttar Pradesh, Punjab, West Bengal, Tamil Nadu,and Telangana these are the top 5 states which has highest crop production.
+
+  And sum of production in kharif seasons is 4.03bn .
+
+
+ In rabi season:-
+
+  The crops which has highest production are wheat, urad and sunlower that is 1.32bn, 0.01bn, 0.01bn respectively.
+
+  In this season the states like Uttar Pradesh, Panjab, Rajasthan, West Bengal, Telangana these are the top 5 states which has highest crop production.
+
+  And sum of production in kharif seasons is 2.05bn .
+
+
+ In summer season:-
+
+  The crops which has highest production are Rice, Sunflower,and sesamum that is 128M, 1M, 2M respectively.
+
+  In this season the states like West Bengal, karnataka, Odisha, Uttar Pradesh,and Maharashtra these are the top 5 states which has highest crop production.
+
+  And sum of production in kharif seasons is 170.66M .
+
+
+So we observed that production in Kharif season is high as compare to other seasons.
+
+
+
+As per the District-
+
+  In every state some district has high production and total area like in West Bengal - Murshidadad, Midnapur west, bardaman .
+ 
+  And in utter predesh - muzzfer nagar, kheri, Bijnor.
+
+
+As per States:-
+
+  Kerala has highest production rate around 97.88bn.
+
+
+We also observe that in the year 2011 has highest crop production that is 14.31bn
+
+And second highest production year is 2013 that is 12.9bn.
+
+
+
+ 
